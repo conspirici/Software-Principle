@@ -1,4 +1,4 @@
-# ** Understanding the Single Responsibility Principle (SRP) with a Robot Assistant **
+# **Understanding the Single Responsibility Principle (SRP) with a Robot Assistant**
 
 ## **What is the Single Responsibility Principle (SRP)?**
 The **Single Responsibility Principle (SRP)** is one of the **SOLID** principles of software design. It states that:  
