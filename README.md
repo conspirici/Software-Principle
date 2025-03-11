@@ -11,11 +11,11 @@ By following SRP, we keep our code **organized, easier to understand, and more a
 ---
 
 ## **Why is SRP Important?**
-- ✅ **Reduces Complexity** – By dividing responsibilities, each class is simpler and more focused.  
-- ✅ **Improves Maintainability** – Changes in one module don’t break others.  
-- ✅ **Enhances Readability** – Code is easier to understand.  
-- ✅ **Increases Reusability** – Modules can be reused in different projects.  
-- ✅ **Simplifies Debugging** – Issues are easier to locate and fix.  
+- **Reduces Complexity** – By dividing responsibilities, each class is simpler and more focused.  
+- **Improves Maintainability** – Changes in one module don’t break others.  
+- **Enhances Readability** – Code is easier to understand.  
+- **Increases Reusability** – Modules can be reused in different projects.  
+- **Simplifies Debugging** – Issues are easier to locate and fix.  
 
 ---
 
